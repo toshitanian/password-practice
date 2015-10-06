@@ -33,7 +33,7 @@ if __name__ == '__main__':
     description = ''
     setup(
         name='password-practice',
-        version='v1.0',
+        version='1.0.1',
         description=description,
         author='Toshiya Kawasaki',
         author_email='kawasakitoshiya@gmail.com',
